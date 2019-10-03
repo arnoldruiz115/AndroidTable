@@ -1,4 +1,0 @@
-#Wed Oct 02 17:01:59 PDT 2019
-base.0=C\:\\Users\\Arnold\\Documents\\GitHub\\AndroidTable\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
