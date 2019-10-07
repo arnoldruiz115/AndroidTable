@@ -1,3 +1,47 @@
 <resources>
     <string name="app_name">AndroidTable</string>
+    <string name="num0">0</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="num10">10</string>
+    <string name="num11">11</string>
+    <string name="num12">12</string>
+    <string name="num17">17</string>
+    <string name="num18">18</string>
+    <string name="num21">21</string>
+    <string name="num22">22</string>
+    <string name="num23">23</string>
+    <string name="rules1">Rules void hello1(int hour)</string>
+    <string name="rule">Rule</string>
+    <string name="properties">properties</string>
+    <string name="name">name</string>
+    <string name="category">category</string>
+    <string name="dayhour">Day Hour Classification</string>
+    <string name="daytime">Day and Time</string>
+    <string name="C1">C1</string>
+    <string name="A1">A1</string>
+    <string name="minmax">min &lt;= hour &amp;&amp; hour &lt;= max</string>
+    <string name="intmin">int min</string>
+    <string name="intmax">int max</string>
+    <string name="systemout">System.out.println(greeting + &quot;,World!)&quot;</string>
+    <string name="strgreet">String greeting</string>
+    <string name="R10">R10</string>
+    <string name="R20">R20</string>
+    <string name="R30">R30</string>
+    <string name="R40">R40</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="greeting">Greeting</string>
+    <string name="goodm">Good Morning</string>
+    <string name="gooda">Good Afternoon</string>
+    <string name="goode">Good Evening</string>
+    <string name="goodn">Good Night</string>
+
 </resources>
